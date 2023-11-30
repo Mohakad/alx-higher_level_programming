@@ -1,11 +1,12 @@
 #!/usr/bin/python3
-import sys
-l = len(sys.argv)
-if l == 2:
-    print(f"{l - 1} argument:")
-elif l == 1:
-    print(f"{l - 1} arguments.")
-else :
-    print(f"{l - 1} arguments:")
-for i in range(1, l):
-    print(f"{i}: {sys.argv[i]}")
+if __name__ == "__main__":
+    import sys
+    ln = len(sys.argv)
+    if ln == 2:
+        print(f"{ln - 1} argument:")
+    elif ln == 1:
+        print(f"{ln - 1} arguments.")
+    else:
+        print(f"{ln - 1} arguments:")
+    for i in range(1, ln):
+        print(f"{i}: {sys.argv[i]}")
