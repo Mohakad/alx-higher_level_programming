@@ -7,26 +7,16 @@
  */
 int is_palindrome(listint_t **head)
 {
-	listint_t *h = *head, *temp = NULL, *t2 = NULL;
+	listint_t *h = *head, *temp = *head;
 
-	if (h->next == NULL || *head == NULL)
+	if (*head == NULL)
 		return (1);
 	while (h != NULL)
 	{
-		add_nodeint_end(&temp, h->n);
+		if (temp->n != h->n)
+			return (0);
+		temp = temp->next;
 		h = h->next;
 	}
-	t2 = temp;
-	while (*head != NULL)
-	{
-		if (t2->n != (*head)->n)
-		{
-			free_listint(temp);
-			return (0);
-		}
-		t2 = t2->next;
-		*head = (*head)->next;
-	}
-	free_listint(temp);
 	return (1);
 }
