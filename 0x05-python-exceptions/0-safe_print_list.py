@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def safe_print_list(my_list=[], x=0):
-    leng = 0;
+    leng = 0
     for ind in range(x):
         try:
             print(my_list[ind], end="")
@@ -9,4 +9,3 @@ def safe_print_list(my_list=[], x=0):
             break
     print("")
     return leng
-
