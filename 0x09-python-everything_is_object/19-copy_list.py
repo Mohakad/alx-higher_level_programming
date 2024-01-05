@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 def copy_list(l):
     l2 = l[:]
-    return 12
+    return l2[:]
