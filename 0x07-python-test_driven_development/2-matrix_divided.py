@@ -8,8 +8,7 @@ def matrix_divided(matrix, div):
     Args:
         matrix (list): lists
         div (int/float): int
-    
-    Returns: div
+        Returns: div
     """
     if (not isinstance(matrix, list) or matrix == [] or
             not all(isinstance(row, list) for row in matrix) or
