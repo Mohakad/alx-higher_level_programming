@@ -4,5 +4,5 @@
 
 def read_file(filename=""):
     """func"""
-    with open(filename, encoding="utf-8") as fl:
+    with open(filename, encoding="UTF8") as fl:
         print(fl.read())
