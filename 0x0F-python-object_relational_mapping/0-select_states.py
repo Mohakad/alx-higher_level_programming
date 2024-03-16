@@ -5,12 +5,12 @@ import MySQLdb
 
 
 if __name__ == "__main__":
-    ldb = MySQLdb.connect(host="localhost", username=sys.argv[1], password=sys.argv[2],
-    ldb=sys.argv[3], port=3306)
-    crs = db.cursor()
-    crs.execute("SELECT * FROM states")
-    dat = crs.fetchall()
+    db = MySQLdb.connect(host="localhost", user=sys.argv[1], passwd=sys.argv[2],
+    db=sys.argv[3], port=3306)
+    cr = db.cursor()
+    cr.execute("SELECT * FROM states")
+    dat = cr.fetchall()
     for data in dat:
-        print(dat)
-        crs.close()
-        ldb.close()
+        print(data)
+    cr.close()
+    db.close()
