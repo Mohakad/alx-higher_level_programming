@@ -15,3 +15,4 @@ if __name__ == "__main__":
 
         print(*city, sep=", ")
         crr.close()
+        db.close()
