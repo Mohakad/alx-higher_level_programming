@@ -14,3 +14,4 @@ if __name__ == "__main__":
         city = [row[0] for row in rows]
 
         print(*city, sep=", ")
+        crr.close()
