@@ -6,4 +6,5 @@ import sys
 import urllib.request
 arg = sys.argv[1]
 with urllib.request.urlopen(arg) as reqid:
-    print(reqid.headers['X-Request-Id'])
+    xrid = reqid.headers['X-Request-Id']
+    print(xrid)
