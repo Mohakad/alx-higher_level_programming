@@ -2,7 +2,8 @@
 """ takes in a URL, sends a request to the URL"""
 
 
-from sys import argv
+import sys
 import urllib.request
-with urllib.request.urlopen(argv[1]) as reqid:
+arg = sys.argv[1]
+with urllib.request.urlopen(arg) as reqid:
     print(reqid.headers['X-Request-Id'])
