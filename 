@@ -1,0 +1,668 @@
+[33mcommit 430246da78ba9fb5a48f556bb8e37a00271ead54[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Apr 2 14:53:38 2024 -0700
+
+    req
+
+[33mcommit 9f6c26263106912072b046c53ab9c37daaedd7a7[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 30 18:24:15 2024 +0300
+
+    3
+
+[33mcommit 4efd4d2792cff4c28f521bb7c2e66ebc35d3e403[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 29 08:33:36 2024 -0700
+
+    2
+
+[33mcommit ac61d51eb0659457434cfdd4372f7eda036d8fe8[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 29 17:47:21 2024 +0300
+
+    email
+
+[33mcommit a7f8085edd21dd1fd6259a6a0e5cda3ed6222c53[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 29 17:30:40 2024 +0300
+
+    arr
+
+[33mcommit d5494c1dbbaf57c8d635fadee291ba0d67d28983[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 29 17:28:00 2024 +0300
+
+    ar
+
+[33mcommit 558371f46ef714aa464651643a3ab40794d27450[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 29 17:24:11 2024 +0300
+
+    args
+
+[33mcommit e4600937a74dd31f6c7f7a822b91e12fc80f545d[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 29 17:19:57 2024 +0300
+
+    arg
+
+[33mcommit d0f509c25caa582ce1b6d4297ad8626c22c12988[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 29 17:15:33 2024 +0300
+
+    xid
+
+[33mcommit adb9bd16f4fa165b045c17d1efdd070a5fb7f48a[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 29 17:10:40 2024 +0300
+
+    xid
+
+[33mcommit c3250e5a57a4c0d9cd66543322298d1dfecbc140[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 29 17:01:46 2024 +0300
+
+    0,1
+
+[33mcommit 2ba2c033988974a7d97bc4e74979a8ba86398f19[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Mar 28 11:52:33 2024 -0700
+
+    6
+
+[33mcommit 71b0c10163847b91c0d9cc20bcd0e3f687fbc786[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Mar 28 21:49:35 2024 +0300
+
+    list
+
+[33mcommit 6f27fc138016d81a13fca34e8cf68f492c1dc022[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Mar 28 11:18:50 2024 -0700
+
+    4
+
+[33mcommit 67792b1b71d0749abdf122559dabe86de0f6f4a4[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Mar 28 11:07:45 2024 -0700
+
+    header
+
+[33mcommit 96c35aa665d3e6d34e55fb46710f84a43253dc93[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Mar 28 10:52:52 2024 -0700
+
+    todelet
+
+[33mcommit d1d07a4cc2c59188b8f70932dd1216d1e18f611d[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Mar 28 10:45:01 2024 -0700
+
+    0
+
+[33mcommit 5a66aa7935f8da24e635794d0fc2215298bddcf2[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sun Mar 17 18:32:44 2024 +0300
+
+    100
+
+[33mcommit c6f3b208c4ab10069b1c97d43a99eb7275bd67df[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sun Mar 17 16:49:41 2024 +0300
+
+    to12
+
+[33mcommit 3c73fe9d35a6196ca3ba5717f18e3fc6901247d1[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sun Mar 17 16:00:03 2024 +0300
+
+    model
+
+[33mcommit f96cbee4f4deff5448836feff96ed8d90c92c30b[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sun Mar 17 15:59:14 2024 +0300
+
+    model
+
+[33mcommit c3019e57f1f22d9cf323580685dc081d3322fd71[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sun Mar 17 15:43:37 2024 +0300
+
+    l
+
+[33mcommit 69005eaa4119e0f0944e66b46381344921560a1c[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sun Mar 17 15:37:46 2024 +0300
+
+    l
+
+[33mcommit 7fd4d7bca1be68933367341f7e77da4278a8d79c[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sun Mar 17 05:35:03 2024 -0700
+
+    crr
+
+[33mcommit a3f1724d646ccde69350edde15068e7fccd13661[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sun Mar 17 05:32:06 2024 -0700
+
+    crr
+
+[33mcommit dfc7085737aa61c8fcaab702565e787e070389ef[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sun Mar 17 15:07:29 2024 +0300
+
+    city
+
+[33mcommit 056e0da9486fcf544a80cc762393c9e904c2dbe7[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 21:44:01 2024 +0300
+
+    map
+
+[33mcommit 4f814f2cba707a3ba21cac2b20a7b668484d7619[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 18:26:42 2024 +0300
+
+    2filt
+
+[33mcommit 87eba420fb89dbd22ab616512059b6a18fb77214[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 18:25:15 2024 +0300
+
+    2filt
+
+[33mcommit 4d9ad215de7336b5d10a15fe865ed25d887425ee[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 18:17:09 2024 +0300
+
+    bin
+
+[33mcommit 40e744a753e88a9a4e9ee41e8035dad04318d9d8[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 08:00:08 2024 -0700
+
+    flt
+
+[33mcommit 04a1c335b7bd32430ad78734e1558c6007c4f918[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 17:55:36 2024 +0300
+
+    l
+
+[33mcommit f54d7d0fa3740d8f1fbd568bcabc43b145cf21ef[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 17:51:10 2024 +0300
+
+    1flt
+
+[33mcommit 2b687b7f62d8a23224a02105e7dbfb9bfb586770[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 06:40:18 2024 -0700
+
+    py
+
+[33mcommit a0e68bbf244d596044bc2dcab389b202e84be5b4[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 16:26:33 2024 +0300
+
+    styl
+
+[33mcommit b3c083b03e54241c4a4cf5ec2aa33c7092cf27d8[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 06:24:26 2024 -0700
+
+    mapp
+
+[33mcommit 3555597edb917438b42bfaefc00b4932172148f7[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 06:19:29 2024 -0700
+
+    mapp
+
+[33mcommit 1280b65ac19b398366a28aaf96220420dd5e7c0e[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Mar 16 16:06:14 2024 +0300
+
+    map
+
+[33mcommit e38bb4f268f955de7088794ccdc2558b2c76d65c[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 15 18:38:56 2024 +0300
+
+    fn
+
+[33mcommit 7653ded4322b6887057b4371d8f39353e9853ad7[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 15 18:31:18 2024 +0300
+
+    8
+
+[33mcommit 25e26ed6ac83a884de15ce3e330aac43f55ee9ba[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 15 18:09:08 2024 +0300
+
+    100
+
+[33mcommit 8f589468c15a518d79651090a1094f8e0096ec62[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Mar 15 18:01:58 2024 +0300
+
+    corr
+
+[33mcommit 10bbe61d9ff3a853d9157ed3651b7303610d6d3e[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Mar 13 21:00:01 2024 +0300
+
+    7-occurrences.js
+
+[33mcommit 5dcafe6f467fab10c0887eb7bb7d388b20e13384[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Mar 13 20:08:56 2024 +0300
+
+    9add
+
+[33mcommit fbe73eede8e875553cdf312157019ed6486b92f3[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Mar 13 19:56:11 2024 +0300
+
+    8-square.js
+
+[33mcommit 0711d22ac89e4fdbe82ac257c88e5d1c0ec1b7cd[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Mar 13 18:47:36 2024 +0300
+
+    7-multi_c.js
+
+[33mcommit 51ca0feb53d197e16c30ecdeee7fa9105f167ecb[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Mar 13 18:44:17 2024 +0300
+
+    7-multi_c.js
+
+[33mcommit 9286621e583d83a3b8ab24f9875eeb20004d05a0[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Mar 13 18:36:51 2024 +0300
+
+    ./6-multi_languages_loop.js
+
+[33mcommit aa808e8159202c60fca5d77cbfc291c1c3949c42[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 22:16:39 2024 +0300
+
+    6-square.js
+
+[33mcommit 5accfd1b6ac06f9608fcc0c70271357b9031d506[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 22:03:19 2024 +0300
+
+    sqr
+
+[33mcommit 87fedec39881872a4be64680bdaa0515da29e8f4[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 21:52:44 2024 +0300
+
+    5-square.js
+
+[33mcommit a02196092c2b801af3cdefc7aec1aee1eefa35a4[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 21:44:29 2024 +0300
+
+    rotate
+
+[33mcommit c1568ee01722322e631af9075e4e0e56370f543d[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 21:07:58 2024 +0300
+
+    3-rectangle.js\
+
+[33mcommit 74bc1be0a6d369bc951d377deed91de3653cb202[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 20:40:36 2024 +0300
+
+    2-rectangle.js
+
+[33mcommit 819cea66e9b63a3608ebca900decc08f2e90a380[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 19:30:01 2024 +0300
+
+    1-rectangle.js
+
+[33mcommit e2353406d387f7e9ab82faf895b4b463ddaabd24[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 19:28:30 2024 +0300
+
+    1-rectangle.js
+
+[33mcommit 0b1391021be2cc6c6ad6e9fa2cbaca60bbd2bb04[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 19:26:10 2024 +0300
+
+    1-rectangle.js
+
+[33mcommit 159e827f14f55783c7e98629522fe877b4250bf0[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 18:40:41 2024 +0300
+
+    int
+
+[33mcommit 7f1b4d12031820ef7b21161d162c606e59423e2c[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 18:33:31 2024 +0300
+
+    cool
+
+[33mcommit e00efde01e1f9c3b283956dee420be9ff735e362[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 18:30:37 2024 +0300
+
+    cool
+
+[33mcommit f814b542ae278f4ac0abc7424906d73615ef6611[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 17:55:48 2024 +0300
+
+    2arg
+
+[33mcommit e6203873dc896c12414616326c37efce974d4720[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 07:22:47 2024 -0700
+
+    multi
+
+[33mcommit 4b7deaddd60e712f29e69e9da995cd5a6f117edb[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Mar 12 17:07:30 2024 +0300
+
+    js
+
+[33mcommit bb9d952e2eda4ba5b38043a9b7b83d920149c857[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Feb 15 06:24:43 2024 -0800
+
+    top
+
+[33mcommit 2e291b71b202be973c326568bf40a9fb375e98db[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Feb 15 17:18:02 2024 +0300
+
+    10
+
+[33mcommit 6be0e966734678d212a8aa96cbb61ea624a44bcb[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Feb 15 05:46:24 2024 -0800
+
+    tvl
+
+[33mcommit af2144b68336ebae2d5f910b7b90369846079818[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Feb 15 16:39:44 2024 +0300
+
+    6
+
+[33mcommit e80d231123b004ed47f3abd55ec770312b280b10[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Feb 15 05:28:43 2024 -0800
+
+    tbl
+
+[33mcommit c3bb0d2b45b8d82f5fb3987f743f1d0e7892c63f[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Feb 15 05:07:58 2024 -0800
+
+    delet db
+
+[33mcommit 1b10df3a560f277edbcb9d3192ccbb602af3cfd0[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Feb 14 10:20:55 2024 -0800
+
+    creat
+
+[33mcommit af22bfb7a0fb67e8dae206c2d3966972a5ad643b[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Feb 14 05:58:15 2024 -0800
+
+    db
+
+[33mcommit b7b6530b13158901621e69ca7e3dc51b51f669f1[m
+Merge: 7e85933 03a0119
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Feb 14 05:52:58 2024 -0800
+
+    Merge branch 'master' of https://github.com/Mohakad/alx-higher_level_programming
+
+[33mcommit 7e85933fed02e768e8be7d94af01de669f4a6f61[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Feb 14 05:52:34 2024 -0800
+
+    db
+
+[33mcommit 03a011968b9c775f2d729ebd4d2649abaca697d1[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Jan 17 17:48:37 2024 +0300
+
+    all
+
+[33mcommit 0fbe2f5c1922c0acc378b21c2c7347f662dc7238[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Jan 17 17:41:30 2024 +0300
+
+    corr
+
+[33mcommit 6ec7eadc547ab0693cad9af6dbca95313a98dec1[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sun Jan 14 15:54:43 2024 +0300
+
+    all
+
+[33mcommit f30a16c875c1fe89745b78568821b504779aae2d[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Fri Jan 12 17:32:13 2024 +0300
+
+    012
+
+[33mcommit 14ac4a7508cafcd818ee3038577efc7ca45c2b7d[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Thu Jan 11 09:08:51 2024 -0800
+
+    0
+
+[33mcommit 4285151d94d2b3cb516f7498431107bbbf046dd5[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Jan 10 18:26:39 2024 +0300
+
+    add
+
+[33mcommit b502ce59f7d8430d1d27ea1dfc1afd215a874c80[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Jan 10 18:24:48 2024 +0300
+
+    add
+
+[33mcommit a0d402af33ef8b7b519a72c07645ce65b6f86f59[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Wed Jan 10 18:19:31 2024 +0300
+
+    add
+
+[33mcommit ddc41b324431613f0becc8c3de22668a399cb001[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 21:20:29 2024 +0300
+
+    crr
+
+[33mcommit 81daba1f6d6db4a245ee359ed23d59bf3d4abf9b[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 21:05:48 2024 +0300
+
+    to8
+
+[33mcommit 5961637584271b00fe39a21742ea952e13bfe8ab[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 20:53:55 2024 +0300
+
+    json
+
+[33mcommit a46f792a44bd17508644c25ad95022cf834f6212[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 18:38:54 2024 +0300
+
+    app
+
+[33mcommit 58acfc2edf77a1811c46d37429a5f2a60b511d84[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 18:31:04 2024 +0300
+
+    1w
+
+[33mcommit e85d8985e8a9b4e5057b2a4cfdd70a7bdffbc18b[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 18:20:10 2024 +0300
+
+    0-read_f
+
+[33mcommit f0f4d533764197ccf3f7980ca3e6c69a28f3261f[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 18:09:47 2024 +0300
+
+    0-read_fil
+
+[33mcommit ff9a72d05762b79ec2de195af71f7162cfd4b014[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 17:57:43 2024 +0300
+
+    0-read_fil
+
+[33mcommit 81d304b24c64e87124befedde341ae04be08a942[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 17:56:49 2024 +0300
+
+    0-read_fil
+
+[33mcommit eab027dab8e2e998d197c0b283d3ab49ba9d130e[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 17:53:32 2024 +0300
+
+    0-read_file
+
+[33mcommit f116b065e834414e19acd6e79cb622b9c67ebeaf[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 17:49:00 2024 +0300
+
+    0-read_file.py
+
+[33mcommit fb938112956afe13b364dbd675bf877bbc30f080[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 17:45:44 2024 +0300
+
+    0-read_file.py
+
+[33mcommit 710d1215901dc76c6ba0e2de4b184754b87796a2[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 17:44:36 2024 +0300
+
+    0-read_file.py
+
+[33mcommit f7dfa8347398510a3959589ddebd039e4a6e761f[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 16:34:32 2024 +0300
+
+    test
+
+[33mcommit 0b9b012c72a8b7a93ff487a6cb8f6e21525bb4e9[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 15:53:53 2024 +0300
+
+    matrixx
+
+[33mcommit c3b9c6982caa75514a3bca49daabb8a73c4ec162[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 15:51:22 2024 +0300
+
+    matrix
+
+[33mcommit 074dafd3b72632014c0e5e8584222edfff7bbf6c[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 15:49:36 2024 +0300
+
+    matrix
+
+[33mcommit cec347f1c0a8ea1bfa52f75594923a8ff4ced8ac[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Tue Jan 9 15:40:07 2024 +0300
+
+    0add
+
+[33mcommit 1618ac5688d7bf8962b41d2feb3d723d61099dbf[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Mon Jan 8 20:37:47 2024 +0300
+
+    4-inherits_from.py
+
+[33mcommit 38ee41c4b3acf54fc70ce526440dcbb73e6f1de2[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Mon Jan 8 20:23:10 2024 +0300
+
+    inher
+
+[33mcommit 3055089cde1650e8d59f66459cbbf6a7fb2c9109[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Mon Jan 8 20:02:27 2024 +0300
+
+    same
+
+[33mcommit 4a20ed37ebeb59000d925fc3de8b0cfc847cb715[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Mon Jan 8 19:10:45 2024 +0300
+
+    1-my_li
+
+[33mcommit ec9a9741a8ff1effc96de6aa3f21d52931b0d695[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Mon Jan 8 19:06:27 2024 +0300
+
+    1-my_li
+
+[33mcommit d53da357bec105998c1bc72eafd77a57457556a7[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Mon Jan 8 18:50:55 2024 +0300
+
+    1-my_listll
+
+[33mcommit b233a6a6385bcf32ec1958f8bc40e4c03b189edb[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Mon Jan 8 18:47:40 2024 +0300
+
+    1-my_listl
+
+[33mcommit cbf6fcc6365fa22f45af559ce78d2b3d7344b602[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Mon Jan 8 18:42:33 2024 +0300
+
+    1-my_list
+
+[33mcommit 5d00a79c342c6f1a5bea13ddd7decb5cb949bc8c[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Mon Jan 8 18:33:13 2024 +0300
+
+    lokup
+
+[33mcommit 0b9d14f97a07ab37621dfff296674248340c1581[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Mon Jan 8 18:31:00 2024 +0300
+
+    lokup
+
+[33mcommit 634e1a8091292f0d987ad66987e4644e30a2a25a[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Jan 6 19:11:53 2024 +0300
+
+    tes
+
+[33mcommit 4a9307b8b8c418101bf121091e4563da44874bc5[m
+Author: Mohakad <mohkadtrd@gmail.com>
+Date:   Sat Jan 6 18:45:24 2024 +0300
+
+    0
+
+[33mcommit 3ebdc000083acc439fcbf973b0313255dbda
